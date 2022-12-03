@@ -39,8 +39,8 @@ __Industrial Engineer__, Universidad de San Pedro Sula
 `2022 - 2023`
 __Data Warehouse__
 
-- Created daily plain text file documentation requirements for sales and inventory 
-- Developed collaboration link between the company and third-party analysis service provider
+- Reviewed documentation requirements for sales and inventory 
+- Oversaw collaboration between the company and third-party analysis service provider
 - Created definitions for data visualizations
 
 `2021 - 2022`
@@ -53,9 +53,9 @@ __Automotive Catalog__
 `2018 - 2022`
 __Scrum Methodology__
 
-- Created backlog for developers
-- Prioritized Tasks
-- Built weekly demos
+- Created backlog documentations from end users to developers
+- Prioritized tasks from a line of requests
+- Supervised weekly demos
 - Oversaw the testing and validation of new features
 
 ### Web Development
@@ -63,10 +63,10 @@ __Scrum Methodology__
 `2012 - 2018`
 __Web Services__
 
-- Directed web design and content creation
+- Led web design and content creation
 - Conducted social media creation and integrations
 - Supported digital marketing efforts
-- Managed web analytics
+- Configured web analytics
 - Handled email customization and setup
 
 ## Service and Work History
