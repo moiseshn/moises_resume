@@ -1,4 +1,7 @@
-# md-resume
+
+Check my resume in [GitHub Pages](https://moiseshn.github.io/moises_resume/)
+
+<!-- # md-resume
 
 A resume maintained in plain text and rendered to HTML and PDF using CSS.
 
@@ -57,4 +60,4 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/el
 
 ### License
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE) -->
