@@ -1,89 +1,99 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Moises Martinez's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Moises Martinez
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="moiseshn@gmail.com">moiseshn@gmail.com</a>
+| <a href="www.linkedin.com/in/moiseshn">LinkedIn</a>
+| <a href="https://github.com/moiseshn">GitHub</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2006`
+__Industrial Engineer__, Universidad de San Pedro Sula
 
-- Full academic scholarship with 4.0 GPA
+`2020`
+__Data Analytics__, BYU Idaho
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+-  4.0 GPA Certificate
 
-- 4.0 Major GPA
+`2022`
+__Business Analytics__, BYU Idaho
+
+- 4.0 GPA Minor
+
+`Expected 2023`
+__Machine Learning__, BYU Idaho
+
+- 4.0 GPA Certificate
 
 
 ## Related Experience
 
-### Internships
+### Web Development
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`2012 - 2018`
+__Web Services__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Web design and content creation
+- Social media creation and integrations
+- Digital marketing support
+- Web analytics
+- Email customization and setup
 
-### Data Science Lead
+### ERP Features Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`2018 - Current`
+__Scrum Methodology__
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Backlog creation for developers
+- Tasks prioritization
+- Weekly demos
+- Testing and validation of new features
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`2021 - 2022`
+__Automotive Catalog__
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- B2B online platform integration with API
+- Definitions and adaptations between commercial department and catalog service vendor
+- Testing and catalog customization
 
-### Data Science Consulting Team
+`2022 - 2023`
+__Data Warehouse__
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Documentation requirements to create a daily plain text file for sales and inventory 
+- Collaboration link between company and third-party analysis service provider
+- Definitions for data visualizations
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+<!-- `2023 - Current`
+__ERP 2.0__
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- 
+- 
+-  -->
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2012-Current`
+__Logistics Manager__, Triple A autopartes
 
+`2002-2012`
+__Planning Manager__, Gildan Textile
 
-`2023-2025`
-__Service Missionary__, South Africa
+`1998-2002`
+__Administrative Assistant__, Triple A autopartes
+
+`1995-1997`
+__Service Missionary__, El Salvador, San Salvador West
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
