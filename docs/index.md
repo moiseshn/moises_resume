@@ -5,7 +5,7 @@ title: Moises Martinez's Resume
 # Moises Martinez
 
 <div id="webaddress">
-<a href="moiseshn@gmail.com">moiseshn@gmail.com</a>
+moiseshn@gmail.com
 | <a href="https://linkedin.com/in/moiseshn">LinkedIn</a>
 | <a href="https://github.com/moiseshn">GitHub</a>
 </div>
@@ -74,10 +74,8 @@ __RSA ERP Improvements__
 __Web Services__
 
 - Led web design and content creation
-- Conducted social media creation and integrations
-- Supported digital marketing efforts
-- Configured web analytics
-- Handled email customization and setup
+- Conducted social media creation, integrations and training
+- Configured web analytics, email marketing, contact forms
 
 ## Service and Work History
 
@@ -94,5 +92,6 @@ __Administrative Assistant__, Triple A autopartes
 __Service Missionary__, El Salvador, San Salvador West
 
 <!-- ### Footer
-
-Last updated: December 2022 -->
+Last updated: July 2023
+Created: December 2022 with VS code
+-->
