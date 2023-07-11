@@ -6,21 +6,26 @@ title: Moises Martinez's Resume
 
 <div id="webaddress">
 <a href="moiseshn@gmail.com">moiseshn@gmail.com</a>
-| <a href="www.linkedin.com/in/moiseshn">LinkedIn</a>
+| <a href="https://linkedin.com/in/moiseshn">LinkedIn</a>
 | <a href="https://github.com/moiseshn">GitHub</a>
 </div>
 
 ## Education
 
-`Expected 2023`
+`Expected 2024`
 __Machine Learning__, BYU Idaho
 
 - 4.0 GPA Certificate
 
-`2022`
-__Business Analytics__, BYU Idaho
+`2023`
+__Data Science__, BYU Idaho
 
-- 4.0 GPA Minor
+- 4.0 GPA Certificate
+
+`2022`
+__Business Analysis__, BYU Idaho
+
+- 4.0 GPA Certificate
 
 `2020`
 __Data Analytics__, BYU Idaho
@@ -28,7 +33,7 @@ __Data Analytics__, BYU Idaho
 -  4.0 GPA Certificate
 
 `2006`
-__Industrial Engineer__, Universidad de San Pedro Sula
+__Industrial Engineer__, Universidad de San Pedro Sula, Honduras
 
 
 
@@ -36,26 +41,31 @@ __Industrial Engineer__, Universidad de San Pedro Sula
 
 ### ERP Features Lead
 
+`2023 - 2024`
+__RSA ERP 2.0__
+
+- Direct the built from scratch of the RSA ERP using micro services with DevOps
+- Oversee the SYSTEMology project to review company's processes for best practices
+
 `2022 - 2023`
 __Data Warehouse__
 
-- Reviewed documentation requirements for sales and inventory 
+- Fulfilled documentation requirements for sales and inventory file creation
 - Oversaw collaboration between the company and third-party analysis service provider
-- Created definitions for data visualizations
 
 `2021 - 2022`
 __Automotive Catalog__
 
-- Established B2B online platform integration with API
-- Created definitions and adaptations between the commercial department and catalog service vendor
-- Led testing and catalog customization
+- Oversaw requirements for a third-party B2B online platform integration
+- Created definitions between the commercial department and catalog service vendor
+- Led testing and catalog customization for the company's interests
 
 `2018 - 2022`
-__Scrum Methodology__
+__RSA ERP Improvements__
 
-- Created backlog documentations from end users to developers
-- Prioritized tasks from a line of requests
-- Supervised weekly demos
+- Prioritized tasks of bulk requests from all departments
+- Created backlog documentations from end users to developers with SCRUM methodology
+- Supervised weekly to-dos, reviews and demos
 - Oversaw the testing and validation of new features
 
 ### Web Development
@@ -83,10 +93,6 @@ __Administrative Assistant__, Triple A autopartes
 `1995 - 1997`
 __Service Missionary__, El Salvador, San Salvador West
 
-
-
 <!-- ### Footer
 
 Last updated: December 2022 -->
-
-
