@@ -5,7 +5,7 @@ title: Moises Martinez's Resume
 # Moises Martinez
 
 <div id="webaddress">
-<mailto:moiseshn@gmail.com>
+<a href="mailto:moiseshn@gmail.com">moiseshn@gmail.com</a>
 | <a href="https://linkedin.com/in/moiseshn">LinkedIn</a>
 | <a href="https://github.com/moiseshn">GitHub</a>
 </div>
